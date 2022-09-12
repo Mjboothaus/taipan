@@ -1,1 +1,3 @@
-This markdown file is displayed in `Main.py`.
+### Taipan - the classic snake game
+
+TODO: Finish the description.

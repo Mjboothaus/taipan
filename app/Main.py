@@ -49,4 +49,4 @@ create_sidebar_main()
 render_markdown_file(Path.cwd()/"docs/Main.md")
 
 
-test_env_variable()
+# test_env_variable()
